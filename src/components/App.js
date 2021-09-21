@@ -13,7 +13,7 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Di Feed
+            Di Social
           </a>
         </nav>
         <div className="container-fluid mt-5">
@@ -27,7 +27,7 @@ class App extends Component {
                 >
                   <img src={logo} className="App-logo" alt="logo" />
                 </a>
-                <h1>Di Feeder</h1>
+                <h1>Di Social</h1>
                 <p>
                   Edit <code>src/components/App.js</code> and save to reload.
                 </p>
